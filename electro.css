@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(#00c632, #3c38ba);
+}
+
+*{
+    font-family: 'Courgette', cursive;
+    font-family: 'Lobster', cursive;
+}
+ul{
+    
+    font-size: 15px;
+    line-height: 40px;
+    font-style: oblique;
+    text-transform: uppercase;
+}
+
